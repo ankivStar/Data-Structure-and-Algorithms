@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "complex": "cpp",
+        "new": "cpp",
+        "numbers": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "climits": "cpp",
+        "queue": "cpp",
+        "string": "cpp"
+    }
+}

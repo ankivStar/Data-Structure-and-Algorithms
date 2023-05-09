@@ -1,0 +1,1 @@
+{"name":"Local: 03_array_subset","url":"d:\\Data structure CN\\05_Assignment_Recursion_2\\03_array_subset.cpp","tests":[{"id":1669478075289,"input":"4\n1 2 3 4","output":"3 \n2 \n2 3 \n1 \n1 3 \n1 2 \n1 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Data structure CN\\05_Assignment_Recursion_2\\03_array_subset.cpp","group":"local","local":true}
